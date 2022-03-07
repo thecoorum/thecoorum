@@ -129,3 +129,10 @@
 ### What I do 💻
 ![Yaroslav's GitHub stats](https://github-readme-stats.vercel.app/api?username=thecoorum&count_private=true&include_all_commits=true)<br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thecoorum)
+
+### What I read
+<img
+  src="./devcard.svg"
+  alt="devcard"
+  width="450"
+/>
