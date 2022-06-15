@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Yaroslav</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🔭 I’m currently working on [Booqable Rental Software](https://booqable.com)
+- 🔭 I’m currently working on **[Booqable Rental Software](https://booqable.com)**
 - 🌱 I’m currently learning **Ruby on Rails**
-- 👨‍💻 Working on Track - all your incomes and expenses in one place
-- 📫 How to reach me **coorum.y@gmail.com**
+- 👨‍💻 Working on **Track - all your incomes and expenses in one place**
+- 📫 How to reach me: **[mail](mailto:coorum.y@gmail.com)**
 
 ### Connect with me ✉️
 <a href="https://twitter.com/thecoorum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thecoorum" height="30" width="40" /></a>
