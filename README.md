@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **[Booqable Rental Software](https://booqable.com)**
 - 🌱 I’m currently learning **Ruby on Rails**
-- 👨‍💻 Working on **Track - all your incomes and expenses in one place**
+- 👨‍💻 Working on **solde - easy finances management**
 
 <div align="center">
 <a href="https://twitter.com/thecoorum" target="_blank">Twitter</a>
