@@ -2,11 +2,7 @@
 <h3 align="center">A passionate software engineer</h3>
 
 - 🔭 I’m currently working on **[Booqable Rental Software](https://booqable.com)**
-- 🌱 I’m currently learning **Ruby on Rails**
-- 👨‍💻 Working on **[bookthing](https://bookthing.app)** - app for accepting bookings for your services easily through Telegram
 
 <div align="center">
-<a href="https://twitter.com/thecoorum" target="_blank">Twitter</a>
-|
-<a href="https://linkedin.com/in/thecoorum" target="_blank">LinkedIn</a>
+<a href="https://bento.me/thecoorum" target="_blank">Links</a>
 </div>
